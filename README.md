@@ -1,2 +1,4 @@
 # PSR
-The Code of "Are Negative Samples Necessary in Entity Alignment? AnApproach with High Performance, Scalability and Robustness" CIKM 2020
+"Are Negative Samples Necessary in Entity Alignment? AnApproach with High Performance, Scalability and Robustness" CIKM 2021
+
+The code will be available soon.
